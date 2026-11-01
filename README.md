@@ -19,7 +19,7 @@ A simple artificial neuron implemented using **Python and NumPy**.
 * Gradient-based learning
 * Model training
 
-📁 Folder: `Neural-Network-From-Scratch`
+📄 File: `neural_network.py`
 
 ---
 
@@ -38,7 +38,29 @@ The project uses generated datasets to train the model and visualize the learned
 * Accuracy evaluation
 * Decision boundary visualization
 
-📁 Folder: `Perceptron-From-Scratch`
+📄 File: `perceptron.py`
+
+---
+
+### 3. 📈 Multiple Linear Regression — Insurance Premium Prediction
+
+A Multiple Linear Regression model developed using **Python, NumPy, Matplotlib, and Scikit-learn** to predict insurance premiums based on an individual's income and age.
+
+The project uses a synthetic dataset containing 50 observations and visualizes the relationship between the input variables and insurance premiums using a 3D regression plane.
+
+**Concepts covered:**
+
+* Multiple Linear Regression
+* Synthetic Data Generation
+* Independent and Dependent Variables
+* Model Training using Scikit-learn
+* Regression Coefficients and Intercept
+* Predictions
+* Gaussian Noise
+* 3D Data Visualization
+* Regression Plane Visualization
+
+📄 File: `linear_regression_insurance.py`
 
 ---
 
@@ -56,19 +78,20 @@ This repository is mainly focused on learning and practicing the fundamentals of
 * Artificial Intelligence
 * Machine Learning
 * Neural Networks
+* Regression
 * Classification
 * Optimization
 * Model Training
+* Data Visualization
 
 ## 🚀 Future Projects
 
 More AI and Machine Learning projects will be added progressively, including:
 
-* Linear Regression
 * Logistic Regression
-* K-Nearest Neighbors
+* K-Nearest Neighbors (KNN)
 * Decision Trees
-* Neural Networks
+* Random Forest
 * Deep Learning
 * Computer Vision
 * Natural Language Processing
